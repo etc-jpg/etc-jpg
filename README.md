@@ -49,10 +49,5 @@
  <samp><h1>etc-jpg's Github Stats</h1></samp>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=etc-jpg&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=etc-jpg&theme=dark&hide_border=false">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etc-jpg&theme=dark&hide_border=false&layout=compact">
-</div>
+  ## 💰 You can help me by Donating
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/etcpasswd) 
