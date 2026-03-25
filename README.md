@@ -1,28 +1,22 @@
-<div align="center">
+# 💫 About Me:
+“Bug hunter bukan sekadar mencari celah, tapi menjaga kepercayaan dalam setiap baris kode.”
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=etc.passwd;security+engineer;bug+hunter+%3A%3E;ctf+player" alt="Typing SVG" />
 
-<sub>security engineer · bug hunter · ctf player</sub>
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=etc&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=etc&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=etc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-> skills
-
-![Python](https://img.shields.io/badge/Python-1c3a5c?style=flat-square&logo=python&logoColor=58a6ff)
-![Bash](https://img.shields.io/badge/Bash-1a3b1a?style=flat-square&logo=gnu-bash&logoColor=3fb950)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-3b1c0f?style=flat-square&logo=burpsuite&logoColor=f78166)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-1c2f3b?style=flat-square&logo=kali-linux&logoColor=79c0ff)
-![C](https://img.shields.io/badge/C-1c2a3b?style=flat-square&logo=c&logoColor=79c0ff)
-![PHP](https://img.shields.io/badge/PHP-2a1d3b?style=flat-square&logo=php&logoColor=bc8cff)
-![JavaScript](https://img.shields.io/badge/JavaScript-3b3000?style=flat-square&logo=javascript&logoColor=e3b341)
-![Nmap](https://img.shields.io/badge/Nmap-1a2b3b?style=flat-square&logo=nmap&logoColor=79c0ff)
-![Wireshark](https://img.shields.io/badge/Wireshark-1c2f3b?style=flat-square&logo=wireshark&logoColor=79c0ff)
-![Docker](https://img.shields.io/badge/Docker-0d1f2d?style=flat-square&logo=docker&logoColor=58a6ff)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=etc&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=etc&icon=0&color=0)](https://visitcount.itsvg.in)
 
-*"the quieter you become, the more you are able to hear."*
+  ## 💰 You can help me by Donating
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/etcpasswd) 
 
-![](https://komarev.com/ghpvc/?username=etc-jpg&color=58a6ff&style=flat-square&label=visitors)
-
-</div>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
