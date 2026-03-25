@@ -38,9 +38,6 @@
 <img src="https://img.shields.io/badge/perl-%2339457E.svg?style=flat-square&logo=perl&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white">
 </div>
-<div align="center">
- <samp><h1>etc-jpg's Github Stats</h1></samp>
-</div>
 <br>
 <div align="center">
  <samp><h2>💰 Support Me</h2></samp>
