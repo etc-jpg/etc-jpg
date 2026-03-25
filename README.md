@@ -1,58 +1,30 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=200&section=header&text=etc.passwd&fontSize=60&fontColor=0d1117&animation=fadeIn&fontAlignY=38&desc=I%20Love%20Security%20:%3E&descAlignY=60&descColor=0d1117)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+etc.passwd;Security+Engineer;Bug+Hunter+%3A%3E;Web+Hacker+%7C+CTF+Player" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=monospace&size=18&duration=2000&pause=1000&color=00FF41&center=true&width=500&lines=breaking+things+to+fix+them;web+hacking+%7C+CTF+player;the+quieter+you+become...">
+<br/>
 
-</div>
+🔐 **Security Engineer** &nbsp;·&nbsp; 🐛 **Bug Hunter** &nbsp;·&nbsp; 🏴 **CTF Player**
 
----
+<br/>
 
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-```bash
-$ whoami
-  etc.passwd
+<br/>
 
-$ cat interests.txt
-  ▸ Web Application Hacking
-  ▸ CTF Challenges
-  ▸ Bug Hunting
-  ▸ Building Security Tools
+> *"The quieter you become, the more you are able to hear."*
 
-$ uname -a
-  Kali Linux | etc-jpg
-```
+<br/>
 
-<br clear="right"/>
-
----
-
-### ⚙️ Tools & Skills
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white">
-<img src="https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white">
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white">
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white">
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white">
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-
-</div>
-
----
-
-<div align="center">
-<samp><i>"The quieter you become, the more you are able to hear."</i></samp>
-<br><br>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=etc-jpg&color=00ff41&style=flat-square&label=visitors)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer)
+![](https://komarev.com/ghpvc/?username=etc-jpg&color=00ff41&style=flat-square&label=visitors)
 
 </div>
