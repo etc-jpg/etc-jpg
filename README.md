@@ -41,11 +41,6 @@
 <div align="center">
  <samp><h1>etc-jpg's Github Stats</h1></samp>
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=etc-jpg&theme=dark&hide_border=false&include_all_commits=true&count_private=true"><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=etc-jpg&theme=dark&hide_border=false"><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etc-jpg&theme=dark&hide_border=false&layout=compact">
-</div>
 <br>
 <div align="center">
  <samp><h2>💰 Support Me</h2></samp>
