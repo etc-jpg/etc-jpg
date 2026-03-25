@@ -1,15 +1,8 @@
 <div align="center">
 
-```
- _______  __  ___  _______ 
-|   ____||  |/  / |   ____|
-|  |__   |  '  /  |  |__   
-|   __|  |    <   |   __|  
-|  |____ |  .  \  |  |____ 
-|_______||__|\__\ |_______|
-```
+![header](https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=200&section=header&text=etc.passwd&fontSize=60&fontColor=0d1117&animation=fadeIn&fontAlignY=38&desc=I%20Love%20Security%20:%3E&descAlignY=60&descColor=0d1117)
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=monospace&size=18&duration=2000&pause=1000&color=00FF41&center=true&width=500&lines=etc.passwd+%3A%3E;breaking+things+to+fix+them;web+hacking+%7C+CTF+player;the+quieter+you+become...">
+<img src="https://readme-typing-svg.herokuapp.com/?font=monospace&size=18&duration=2000&pause=1000&color=00FF41&center=true&width=500&lines=breaking+things+to+fix+them;web+hacking+%7C+CTF+player;the+quieter+you+become...">
 
 </div>
 
@@ -55,10 +48,11 @@ $ uname -a
 ---
 
 <div align="center">
-<samp>
-<i>"The quieter you become, the more you are able to hear."</i>
+<samp><i>"The quieter you become, the more you are able to hear."</i></samp>
 <br><br>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=etc-jpg&color=00ff41&style=flat-square&label=visitors)
-</samp>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer)
+
 </div>
