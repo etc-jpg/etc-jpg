@@ -21,7 +21,8 @@
 ```
 
 ```
-> Name    : etc
+> Name    : etc.passwd
+> Handle  : etc-jpg
 > Role    : Security Engineer | Bug Hunter | Code Lover
 > OS      : Kali Linux / Parrot OS
 > Shell   : /bin/zsh
@@ -79,11 +80,11 @@
 
 <div align="center">
 
-![etc's GitHub Stats](https://github-readme-stats.vercel.app/api?username=etc&show_icons=true&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41)
+![etc-jpg's GitHub Stats](https://github-readme-stats.vercel.app/api?username=etc-jpg&show_icons=true&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=etc&layout=compact&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=00FF41)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=etc-jpg&layout=compact&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=00FF41)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=etc&theme=matrix&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
+![GitHub Streak](https://streak-stats.demolab.com?user=etc-jpg&theme=matrix&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
 
 </div>
 
@@ -96,7 +97,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=etc&theme=matrix&no-frame=true&no-bg=true&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=etc-jpg&theme=matrix&no-frame=true&no-bg=true&margin-w=4)
 
 </div>
 
@@ -109,7 +110,7 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-etc-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/etc)
+[![GitHub](https://img.shields.io/badge/GitHub-etc--jpg-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/etc-jpg)
 [![Telegram](https://img.shields.io/badge/Telegram-Contact_Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/etc)
 
 </div>
@@ -137,6 +138,6 @@
 > EOF
 ```
 
-![Visitor Count](https://komarev.com/ghpvc/?username=etc&color=00ff41&style=flat-square&label=VISITORS)
+![Visitor Count](https://komarev.com/ghpvc/?username=etc-jpg&color=00ff41&style=flat-square&label=VISITORS)
 
 </div>
